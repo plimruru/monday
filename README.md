@@ -1,15 +1,28 @@
-Проект команды Ctrl_Alt_Elite
- - rayleneo  
- - bebenedr  
- - hammergo  
- - mixtaper
-```
-Концепция игры: классический runner с препятствиями.
-Ты системный администратор, которому поступил срочный вызов о поломке компьютера!
-Пройди сквозь офисные джунгли и помоги коллеге с компом.
-Не забудь выпить кофе по пути, ведь энергия - главная валюта программиста!
-Структура проекта (src):
-main.cpp - логика игры
-assets.cpp - графические ресурсы
-music.cpp - музыкальные ресурсы
+# MONDAY
+
+A game created by the **Ctrl_Alt_Elite** team for the **Arduboy2** console in honor of **Programmer's Day**.
+
+## About the Game
+
+> You are a system administrator who has received an urgent call about a broken computer!
+>
+> Navigate the office jungle and help a colleague fix their PC.
+>
+> Don't forget to grab a coffee along the way—after all, energy is a programmer's most valuable currency!
+
+## Team
+
+* rayleneo
+* bebenedr
+* hammergo
+* plimruru
+
+## Project Structure
+
+The game's source code is organized as follows:
+
+```text
+main.cpp    — Game logic
+assets.cpp  — Graphical assets
+music.cpp   — Music assets
 ```
